@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
 
+<h2>Swag Labs Login Test Case</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>No</th>
+    <th>Step</th>
+    <th>Expected Results</th>
+    <th>Actual Results</th>
+     <th>Status</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Login with username and password</td>
+    <td>Login with username and password successfully</td>
+     <td>Logged into the site successfully</td>
+      <td>Pass</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+     <td>Germany</td>
+     <td>Germany</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+     <td>Germany</td>
+     <td>Germany</td>
+  </tr>
+</table>
+
+
+
+</body>
+</html>
