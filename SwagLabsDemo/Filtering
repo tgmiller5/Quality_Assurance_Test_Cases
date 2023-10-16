@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
 
+<h2>Swag Labs Login Test Case</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>No</th>
+    <th>Step</th>
+    <th>Expected Results</th>
+    <th>Actual Results</th>
+     <th>Status</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Click on the filtering icon - verify that the default filter is Name(A to Z) </td>
+    <td>Verify that the products page lists the products from A to Z </td>
+     <td>Verify that the products page lists the products from A to Z </td>
+      <td>Pass</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Click on the filtering icon and select from dropdown "Name(Z to A)"</td>
+    <td>Verify that the products page lists the products from Z to A </td>
+     <td>Verify that the products page lists the products from Z to A </td>
+     <td>Pass</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Click on the filtering icon and select from dropdown "Price(low to high)"</td>
+    <td>Verify that the products page lists the prices in ascending order</td>
+     <td>Verify that the products page lists the prices in ascending orderPass</td>
+     <td>Pass</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Click on the filtering icon and select from dropdown "Price(high to low)</td>
+    <td>Verify that the products page lists the products from descending order. </td>
+     <td>Verify that the products page lists the products from descending order. </td>
+     <td>Pass</td>
+  </tr>
+
+</table>
+
+
+
+</body>
+</html>
