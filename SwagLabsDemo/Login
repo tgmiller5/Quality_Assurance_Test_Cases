@@ -28,16 +28,10 @@ table, th, td {
     <td>2</td>
     <td>Select the 'Login' button</td>
     <td>Select the 'Login' button</td>
-     <td>Germany</td>
-     <td>Germany</td>
+     <td>Logged into the site successfully</td>
+     <td>Pass</td>
   </tr>
-  <tr>
-    <td>2</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-     <td>Germany</td>
-     <td>Germany</td>
-  </tr>
+ 
 </table>
 
 
